@@ -1,2 +1,7 @@
-# Twilio
-My TML for the Twilio test
+@{
+    Response.ContentType = "text/xml";
+}
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>Hello Monkey</Say>
+</Response>
